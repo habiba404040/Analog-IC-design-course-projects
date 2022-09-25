@@ -4,7 +4,7 @@
 * Analog IC Design Fundamentals
 * The gm/ID Design Methodology
 * Advanced Analog IC Design
-** Negative feedback, stability and compensation, noise, common mode feedback(CMFB), Slew rate(SR), power supply rejection ratio(PSRR), variability and mismatch, biasing and references.
+    Negative feedback, stability and compensation, noise, common mode feedback(CMFB), Slew rate(SR), power supply rejection ratio(PSRR), variability and mismatch, biasing and references.
 * How to use ADT, ADT Sizing assistant.
 
 >## course projects:
