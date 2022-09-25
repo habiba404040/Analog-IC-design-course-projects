@@ -12,9 +12,9 @@
    * Mini_Project 2: Design of fully differential capacitive feedback amplifier using folded cascode OTA.
    * CMFB: common mode feedback network. 
    * Challenge day project: Digitally Controlled Variable Gain Amplifier (VGA).
-   ** Projects' outs : 
-   ** how to use gm/Id methodology to design the given topology and achieve it's specs.
-   ** how to select the suitable OTA achieve specific specs. 
+>## Projects' outs : 
+   * how to use gm/Id methodology to design the given topology and achieve it's specs.
+   * how to select the suitable OTA achieve specific specs. 
 
 > ## Materials:
    *  [Course Videos part 1](https://youtube.com/playlist?list=PLMSBalys69yzp1vrmnYAmpRFiptbuGuaj)
